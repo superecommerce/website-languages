@@ -1,2 +1,3 @@
-# website-languages
-Website languages
+# Website Languages
+
+Translations
